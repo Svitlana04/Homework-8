@@ -406,7 +406,7 @@ font-size: 24px;
     width: 26px;
     height: 26px;
 }
-.instagram span{
+.instagram a{
     margin-left: -4rem;
     font-style: italic;
     font-size: 24px;
@@ -420,7 +420,7 @@ font-size: 24px;
     width: 35px;
     height: 30px;
 }
-.facebook span{
+.facebook a{
     margin-left: -3.3rem;
     font-style: italic;
     font-size: 24px;
@@ -434,7 +434,7 @@ font-size: 24px;
     width: 26px;
     height: 26px;
 }
-.twitter span{
+.twitter a{
     margin-left: -3rem;
     font-style: italic;
     font-size: 24px;
